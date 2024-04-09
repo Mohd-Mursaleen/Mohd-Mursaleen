@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mohd-Mursaleen
-- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :-mhdpope@gmail.com
