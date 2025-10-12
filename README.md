@@ -1,22 +1,51 @@
-# Welcome to Mohd's GitHub Profile! 👋
+# Hey, I'm Mursaleen 👋
 
-# **About Me**
+I'm an **Information Science & Engineering student** at SMVIT Bengaluru, building **AI-powered backend systems** and shipping products that solve real problems.
 
-Hi, I’m **Mursaleen** — an Information Science & Engineering student with a passion for building **AI-powered backend systems** and shipping products that actually work.
+## 🚀 What I Do
 
-Over the past few years, I’ve worked in **fast-paced startup environments**, led the development of **real-time speech-to-speech voice agents**, and built **full-stack applications from scratch**. I also have strong experience working with **AI agents, RAG-based systems, and orchestration workflows**, enabling intelligent, context-aware solutions. My work focuses on **performance, system design, and real-world use cases** — I love solving **complex backend problems** and making systems **fast, scalable, and efficient**.
+I specialize in **backend engineering** and **AI integrations**, with hands-on experience building:
+- **Real-time voice agents** (Twilio, Sarvam AI, ElevenLabs, Deepgram)
+- **RAG pipelines** with dynamic tool invocation and context persistence
+- **Production-grade APIs** with FastAPI and Node.js
+- **Full-stack applications** deployed on AWS/GCP with CI/CD
 
-## **🧠 Tech Stack**
+I've worked at **fast-paced startups** where I've reduced costs by 60%, cut latency by 50%, and built systems that scale. I love tackling **complex backend challenges** and making systems **fast, reliable, and efficient**.
 
-- **Backend:** FastAPI, Node.js
-- **Databases:** PostgreSQL, Redis, Supabase, Pinecone
-- **Real-Time:** WebSockets, Redis Workers
-- **DevOps:** Docker, AWS, GCP, GitHub Actions (CI/CD)
-- **AI Integrations:** OpenAI, ElevenLabs, Deepgram, Sarvam AI
-- **Extras:** Puppeteer, Stripe, Playwright
+## 💻 Tech Stack
 
-## Contact Me
-- LinkedIn: [Here](https://www.linkedin.com/in/mohd-mursaleen-490a01283/)
-- Email: mohdmursaleen1207@gmail.com
+**Backend & APIs**  
+FastAPI • Node.js • Express.js • Langchain
 
-Feel free to explore my projects and reach out if you have any questions or collaboration opportunities. Happy coding!
+**Databases & Caching**  
+PostgreSQL • Redis • MongoDB • Pinecone • Supabase
+
+**AI/ML**  
+OpenAI • Sarvam AI • ElevenLabs • Deepgram • RAG Pipelines • Multi-Agent Systems
+
+**DevOps & Cloud**  
+Docker • AWS (EC2, ECS) • GCP • GitHub Actions • CI/CD
+
+**Frontend & Automation**  
+React • Next.js • Playwright • Puppeteer
+
+**Other Tools**  
+WebSockets • Stripe • Twilio
+
+## 🛠️ Featured Projects
+
+### [TestPilot](https://github.com/Mohd-Mursaleen/TestPilot) 
+AI-powered web testing automation using Playwright and LLMs. Write test cases in plain English, get executable browser tests.
+
+### [ProCaptions](https://procaptions.vercel.app)
+AI video editor with one-click background removal and 3D text effects supporting custom fonts.
+
+### [SuperFastAPI](https://www.npmjs.com/package/superfastapi)
+CLI tool for scaffolding production-ready FastAPI projects with MVC structure. Published on npm, reduces setup time by 80%.
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Mohd-Mursaleen](https://www.linkedin.com/in/mohd-mursaleen-490a01283)
+- **Email:** mohdmursaleen1207@gmail.com
+
+Currently exploring **AI agent orchestration** and **real-time systems**. Always open to interesting projects and collaborations!
