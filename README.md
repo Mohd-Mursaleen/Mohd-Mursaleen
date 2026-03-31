@@ -1,51 +1,98 @@
-# Hey, I'm Mursaleen 👋
+# Mohd Mursaleen
 
-I'm an **Information Science & Engineering student** at SMVIT Bengaluru, building **AI-powered backend systems** and shipping products that solve real problems.
+**AI Systems & Backend Engineer** — Building intelligent systems that ship.
 
-## 🚀 What I Do
+AI systems and backend engineer based in Bengaluru, India. I build multi-agent orchestration platforms, real-time voice AI pipelines, and production-grade backends. Currently a 3rd-year Information Science student at Sir MVIT (CGPA 8.5).
 
-I specialize in **backend engineering** and **AI integrations**, with hands-on experience building:
-- **Real-time voice agents** (Twilio, Sarvam AI, ElevenLabs, Deepgram)
-- **RAG pipelines** with dynamic tool invocation and context persistence
-- **Production-grade APIs** with FastAPI and Node.js
-- **Full-stack applications** deployed on AWS/GCP with CI/CD
+**Portfolio:** [geekymd.me](https://geekymd.me) · **LinkedIn:** [mursaleen-dev](https://www.linkedin.com/in/mursaleen-dev) · **X:** [@dev_mursaleen](https://x.com/dev_mursaleen) · **Email:** mohdmursaleen1207@gmail.com
 
-I've worked at **fast-paced startups** where I've reduced costs by 60%, cut latency by 50%, and built systems that scale. I love tackling **complex backend challenges** and making systems **fast, reliable, and efficient**.
+---
 
-## 💻 Tech Stack
+## Experience
 
-**Backend & APIs**  
-FastAPI • Node.js • Express.js • Langchain
+**Core Backend & AI Engineer** · Stealth Startup ([meetchamp.in](https://meetchamp.in)) · *Oct 2025 – Present*
+- Architected an AI agent orchestration platform ([meetchamp.in/ai](https://meetchamp.in/ai)) where founders pitch to simulated AI investor personas — **200 users served on launch day**
+- Engineered a "second brain" system using non-context graphs, autonomous learning modules, and dynamic persona creation for deeply personalized agent behavior
+- One of three core engineers — owned majority of backend architecture, AWS infrastructure (ALB, SQS), and production deployments
 
-**Databases & Caching**  
-PostgreSQL • Redis • MongoDB • Pinecone • Supabase
+**AI Backend Engineer** · Eniac (Acquired by Claritel) ([claritel.ai](https://claritel.ai)) · *Mar 2025 – Jul 2025*
+- Optimized voice agent initial response time from **8s → 3s (62% reduction)** using streaming TTS, context pruning, and VAD tuning
+- Implemented transcription analysis and voice filtering algorithms, improving conversation accuracy by **40%**
+- Built automated Plivo CDR retrieval pipeline to identify latency bottlenecks and failure patterns in production
+- Led end-to-end development of the voice agent from client requirements to production delivery
 
-**AI/ML**  
-OpenAI • Sarvam AI • ElevenLabs • Deepgram • RAG Pipelines • Multi-Agent Systems
+**Full Stack Developer** · BLDX ([getbldx.com](https://getbldx.com)) · *Aug 2024 – Feb 2025*
+- Architected MVC backend containerized with Docker, orchestrated on AWS EC2, with CI/CD optimizations cutting deployment latency by 30%
 
-**DevOps & Cloud**  
-Docker • AWS (EC2, ECS) • GCP • GitHub Actions • CI/CD
+**Full Stack Developer** · Opener ([opener-ai.com](https://opener-ai.com)) · *Jun 2024 – Aug 2024*
+- Engineered complete user onboarding pipeline with personalization via data analytics
+- Built a Chrome extension for automated job application workflows and one-click resume customization
 
-**Frontend & Automation**  
-React • Next.js • Playwright • Puppeteer
+---
 
-**Other Tools**  
-WebSockets • Stripe • Twilio
+## Projects
 
-## 🛠️ Featured Projects
+**[Hey Agent](https://www.heyagent.live/) — Autonomous A2A Networking Platform**
+- Agent-to-Agent network where professionals create their AI digital twin in under 2 minutes to autonomously network and evaluate synergies on their behalf
+- Telegram integration for chatting with your agent, configuring preferences, and receiving debriefs of autonomous conversations
+- `Python` `Next.js` `Telegram API` `AI Agents`
 
-### [TestPilot](https://github.com/Mohd-Mursaleen/TestPilot) 
-AI-powered web testing automation using Playwright and LLMs. Write test cases in plain English, get executable browser tests.
+**OpenClaw — AI Agent System on Android** · [Demo](https://www.youtube.com/shorts/kA_K4a3ApV8)
+- AI agent system running entirely on a Redmi Note 7 Pro (LineageOS) — person detection, voice I/O, UI automation, and agent-to-agent networking
+- Person detection via MobileNet-SSD + OpenCV under **50MB RAM**, with Telegram photo alerts
+- `Python` `Android` `OpenCV` `TFLite` `Edge AI`
 
-### [ProCaptions](https://procaptions.vercel.app)
-AI video editor with one-click background removal and 3D text effects supporting custom fonts.
+**[AgentForge](https://youtu.be/ue3WdxgLIjI) — No-Code AI Agent Platform** · [Part 1](https://youtu.be/ue3WdxgLIjI) · [Part 2](https://youtu.be/9zU1ZzjwI4Y)
+- Full-stack platform to create custom AI assistants, connect them to structured data, and deploy via embeddable iframe widget with real-time WebSocket communication
+- Dynamic Tool Generation pipeline: automatically converts plain-English tasks and raw cURL commands into OpenAI-compatible function schemas using LLM structured outputs
+- `Python` `FastAPI` `React` `WebSockets` `OpenAI`
 
-### [SuperFastAPI](https://www.npmjs.com/package/superfastapi)
-CLI tool for scaffolding production-ready FastAPI projects with MVC structure. Published on npm, reduces setup time by 80%.
+**Voice-Controlled IoT Framework** · [Demo](https://youtu.be/sa0LNqtIJk4)
+- Hardware-software bridge using ESP32 microcontrollers that retrofits any physical appliance into an AI-controlled IoT device
+- Natural conversation or phone call control with **~530ms end-to-end latency**
+- Research paper co-authored: *Real-Time Voice-Controlled IoT Systems* (WebSocket + OpenAI Realtime API)
+- `ESP32` `Python` `OpenAI Realtime API` `WebSockets`
 
-## 📫 Let's Connect
+**[SuperFastAPI](https://www.npmjs.com/package/supfastapi) — CLI for FastAPI** · [GitHub](https://github.com/Mohd-Mursaleen/SuperFastAPI) · [npm](https://www.npmjs.com/package/supfastapi)
+- CLI tool that scaffolds production-ready FastAPI backends with PostgreSQL and Supabase Auth in under 10 seconds — 90% reduction in boilerplate setup time
+- **500+ npm downloads**
+- `Python` `CLI` `FastAPI` `npm`
 
-- **LinkedIn:** [Mohd-Mursaleen](https://www.linkedin.com/in/mohd-mursaleen-490a01283)
-- **Email:** mohdmursaleen1207@gmail.com
+**[ProCaptions](https://procaptions.vercel.app) — Smart Image Overlay Tool** · [GitHub](https://github.com/Mohd-Mursaleen/ProCaptions-backend) · [Demo](https://youtu.be/6iUkTiAAxG8) · [Live](https://procaptions.vercel.app)
+- Smart image overlay tool for layering elements, custom fonts, and shadow effects in three clicks for social media-ready graphics
+- `Python` `FastAPI` `TypeScript` `React`
 
-Currently exploring **AI agent orchestration** and **real-time systems**. Always open to interesting projects and collaborations!
+**[TestPilot](https://github.com/Mohd-Mursaleen/TestPilot) — AI Web Testing Automation** · [GitHub](https://github.com/Mohd-Mursaleen/TestPilot) · [Demo](https://youtu.be/c_06gxQqLxk)
+- AI-powered web testing tool using Playwright and LLMs to generate and execute test cases from natural language
+- `Python` `Playwright` `LLMs` `Automation`
+
+**Enterprise Gym Management Platform** · Client Project
+- End-to-end full-stack platform delivered for a client; advanced admin dashboard with subscription management, automated messaging, and WhatsApp API integration
+- `Node.js` `React` `PostgreSQL` `WhatsApp API`
+
+---
+
+## Research
+
+- Authoring paper on **"Dynamic Tool Generation"** — novel pipeline that autonomously converts raw data into executable LLM tools, validated to cut development time by ~90%
+- Co-authored published paper on **Real-Time Voice-Controlled IoT Systems** — sub-second hardware actuation using OpenAI Realtime API and WebSocket architecture
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | TypeScript, Python, JavaScript, SQL, Bash |
+| **Backend** | FastAPI, Node.js, LangChain, LangGraph, LangSmith, Pipecat, n8n |
+| **Frontend** | Next.js, React |
+| **AI/ML** | Agent Orchestration, RAG/GraphRAG, Multi-Agent Systems, STT/TTS, Prompt Engineering |
+| **Databases** | PostgreSQL, Neo4j, Redis, MongoDB |
+| **Infrastructure** | AWS (EC2, ALB, SQS), GCP, Docker, Git |
+
+---
+
+## Education
+
+**Sir M. Visvesvaraya Institute of Technology, Bengaluru**
+B.E. in Information Science · Expected Aug 2027 · CGPA 8.5/10
