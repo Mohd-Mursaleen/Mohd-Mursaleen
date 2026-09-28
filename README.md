@@ -1,8 +1,8 @@
 # Mohd Mursaleen
 
-**AI Systems & Backend Engineer** — Building intelligent systems that ship.
+**AI Systems & Backend Engineer** | FastAPI • LangGraph • Pipecat | Agent Orchestration • Voice AI
 
-AI systems and backend engineer based in Bengaluru, India. I build multi-agent orchestration platforms, real-time voice AI pipelines, and production-grade backends. Currently a 3rd-year Information Science student at Sir MVIT (CGPA 8.5).
+Founding engineer at **zaum**, building AI employees for manufacturers and suppliers. Based in Bengaluru, India. I build multi-agent orchestration platforms, real-time voice AI pipelines, and production-grade backends.
 
 **Portfolio:** [geekymd.me](https://geekymd.me) · **LinkedIn:** [mursaleen-dev](https://www.linkedin.com/in/mursaleen-dev) · **X:** [@dev_mursaleen](https://x.com/dev_mursaleen) · **Email:** mohdmursaleen1207@gmail.com
 
@@ -10,10 +10,10 @@ AI systems and backend engineer based in Bengaluru, India. I build multi-agent o
 
 ## Experience
 
-**Core Backend & AI Engineer** · Stealth Startup ([meetchamp.in](https://meetchamp.in)) · *Oct 2025 – Present*
-- Architected an AI agent orchestration platform ([meetchamp.in/ai](https://meetchamp.in/ai)) where founders pitch to simulated AI investor personas — **200 users served on launch day**
-- Engineered a "second brain" system using non-context graphs, autonomous learning modules, and dynamic persona creation for deeply personalized agent behavior
-- One of three core engineers — owned majority of backend architecture, AWS infrastructure (ALB, SQS), and production deployments
+**Agent Orchestrator Founding Engineer** · zaum · *Jan 2026 – Present* · Bengaluru
+- Building AI employees for manufacturers and suppliers - agents that run real operations work end to end
+- Harness as a Service (HaaS): the work on the harness compounds, a good harness means the model is swappable
+- Multi-agent orchestration across voice and backend systems with FastAPI, LangGraph, and Pipecat
 
 **AI Backend Engineer** · Eniac (Acquired by Claritel) ([claritel.ai](https://claritel.ai)) · *Mar 2025 – Jul 2025*
 - Optimized voice agent initial response time from **8s → 3s (62% reduction)** using streaming TTS, context pruning, and VAD tuning
